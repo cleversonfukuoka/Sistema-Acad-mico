@@ -1,0 +1,9 @@
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\bin\Debug\BLL.dll
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\bin\Debug\BLL.pdb
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\bin\Debug\DAL.dll
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\bin\Debug\Modelos.dll
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\bin\Debug\Modelos.pdb
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\bin\Debug\DAL.pdb
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\obj\Debug\BLL.dll
+C:\Cleverson\Projetos\C#\Sistema Academico\BLL\BLL\obj\Debug\BLL.pdb

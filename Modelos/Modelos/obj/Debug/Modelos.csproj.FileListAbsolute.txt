@@ -1,0 +1,5 @@
+C:\Cleverson\Projetos\C#\Sistema Academico\Modelos\Modelos\bin\Debug\Modelos.dll
+C:\Cleverson\Projetos\C#\Sistema Academico\Modelos\Modelos\bin\Debug\Modelos.pdb
+C:\Cleverson\Projetos\C#\Sistema Academico\Modelos\Modelos\obj\Debug\ResolveAssemblyReference.cache
+C:\Cleverson\Projetos\C#\Sistema Academico\Modelos\Modelos\obj\Debug\Modelos.dll
+C:\Cleverson\Projetos\C#\Sistema Academico\Modelos\Modelos\obj\Debug\Modelos.pdb
